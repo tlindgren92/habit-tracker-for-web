@@ -6,7 +6,7 @@ A mobile-first habit tracking web app built with React, TypeScript, and Tailwind
 
 ## Tech Stack
 
-| Layer | Technology |
+| Layer | Technology | 
 |---|---|
 | Framework | React 19 + TypeScript 5.9 (strict) |
 | Styling | Tailwind CSS v4, custom CSS variables |
